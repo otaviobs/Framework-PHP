@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<admin>
+   <config key="pasir.db.name">@dbName</config>
+   <config key="pasir.db.hostname">@dbHost</config>
+   <config key="pasir.db.port">@dbPort</config>
+   <config key="pasir.db.username">@dbUser</config>
+   <config key="pasir.db.password">@dbPassword</config>
+</admin>
